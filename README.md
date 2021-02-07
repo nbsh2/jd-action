@@ -30,7 +30,6 @@
 - [ ] 京小超商圈助力功能[jd_superMarket.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_superMarket.js)
 
 ## 食用方法
-
 ### 方法一：本地安装Node.js，下载本库脚本
 
   - 教程请见：[EvineDeng/jd-base](https://github.com/EvineDeng/jd-base)
